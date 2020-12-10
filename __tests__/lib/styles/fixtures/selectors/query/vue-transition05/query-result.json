@@ -1,0 +1,26 @@
+{
+    ".t-enter": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-enter-from": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-enter-active": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-enter-to": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-leave": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-leave-from": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-leave-active": [
+        "div#example-2>transition>p#c"
+    ],
+    ".t-leave-to": [
+        "div#example-2>transition>p#c"
+    ]
+}
